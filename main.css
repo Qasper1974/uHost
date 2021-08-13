@@ -16,6 +16,7 @@ body {
 
 .section-title {
     color: #2ddf5c;
+    text-align: center;
 }
 
 #product-overview h1 {
@@ -158,4 +159,15 @@ body {
     cursor: pointer;
     outline-width: 10px;
     outline-color: red;
+}
+
+
+#key-features {
+    background-color: #ff1b68;
+    margin-top: 80px;
+    padding: 16px;
+}
+
+#key-features .section-title{
+    color: white;
 }
