@@ -12,6 +12,7 @@
     width: 80%;
     margin: 20px 0;
     padding: 40px;
+    position: relative;
 }
 
 .package:hover,
@@ -29,6 +30,16 @@ section a {
     font-size: 25px;
 }
 
+.package__badge {
+    color: white;
+    background-color: #ff5454;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 8px;
+}
 
 .package__subtitle {
     color: rgb(138, 134, 134);
