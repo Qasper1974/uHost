@@ -151,7 +151,7 @@ body::-webkit-scrollbar {
 }
 
 .mobile-nav {
-    display: block;
+    display: none;
     position: fixed;
     z-index: 101;
     top: 0;
